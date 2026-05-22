@@ -1,0 +1,19 @@
+# Ignore built-in Python files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment (venv) directories
+env/
+venv/
+.venv/
+
+# Ignore pip wheel cache files
+*.whl
+
+# Ignore build artifacts and intermediate files
+build/
+dist/
+egg-info/
+
+# ignore data
+data/
